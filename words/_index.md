@@ -23,7 +23,7 @@ Get the leverage to Create, Edit or Convert Word documents using Aspose.Words Cl
 Add Word document creation and manipulation capabilities into your applications using Platform Independent Android Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/words/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/words/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

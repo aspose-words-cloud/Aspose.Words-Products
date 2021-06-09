@@ -10,7 +10,7 @@ url: /net
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://helpdesk.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-donet" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://helpdesk.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-donet" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Open, generate, edit, split, merge, compare and convert a Word document in C#. It's easy for C# developers to manipulate Microsoft Word documents.</p> <p>Simply integrate our Cloud API into your applications to get full-featured Word API that allows you to work, manipulate and integrate documents into your C#, ASP.NET and all other .NET apps including web, mobile, desktop, gaming, IoT, cloud, and microservices.</p> <p>The main usage of this library is to create, open, edit, split, convert documents in different file formats such as DOCX, HTML, PDF, DOC, JPG, etc. Cloud API gives you a library to do tasks programmatically in C# such as:</p>
@@ -284,7 +284,7 @@ using (var file = new FileStream("sample.docx", FileMode.Create, FileAccess.Writ
 
   <div class="col-lg-12">
     <h2 class="h2title"> How to open and edit a DOCX document in C#</h2>
-<ol><li>Install <a href="https://www.nuget.org/packages/Aspose.Words-Cloud/" target="_blank" rel="noopener noreferrer">NuGet package</a> or use the <a href="https://downloads.aspose.com/words/net" target="_blank" rel="noopener noreferrer">direct download</a>.</li>
+<ol><li>Install <a href="https://www.nuget.org/packages/Aspose.Words-Cloud/" target="_blank" rel="noopener noreferrer">NuGet package</a> or use the <a href="https://downloads.aspose.com/words/net/" target="_blank" rel="noopener noreferrer">direct download</a>.</li>
 <li>Go to the <a href="https://dashboard.aspose.cloud/" target="_blank" rel="noopener noreferrer">Aspose Cloud Dashboard</a>.</li>
 <li>Create a new Account to access all applications and services or Sign In to your existing account.</li>
 <li>Click on <strong>Applications</strong> in the left menu to get <strong>Client Id</strong> and <strong>Client Secret</strong>.</li>
@@ -324,29 +324,29 @@ using (var file = new FileStream("sample.docx", FileMode.Create, FileAccess.Writ
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/curl" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/php" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/android" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/python" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/ruby" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/nodejs" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/swift" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/go" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/dart" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

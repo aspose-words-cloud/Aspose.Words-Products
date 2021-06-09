@@ -10,7 +10,7 @@ url: /php
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-php.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-php.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-php" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Open, generate, edit, split, merge, compare and convert a Word document in PHP. It's easy for PHP developers to manipulate Microsoft Word documents. Convert PDF to Word (DOC, DOCX, ODT, RTF and HTML) and in the opposite direction with Aspose Cloud PHP library.</p>
@@ -173,7 +173,7 @@ url: /php
     <h2 class="h2title">
      What is Aspose.Words Cloud SDK for PHP
     </h2>
-    <p>Aspose.Words Cloud is a modern REST API, designed to perform a wide variety of operations on Word documents in the Cloud. The fundamental idea behind Words Cloud API is to incorporate a full-featured Word document processing functionality into customer’s applications, while providing high scalability and speed. </p><p> Similar to other Aspose Cloud SDKs, our PHP Cloud SDK is a wrapper around Cloud API, designed to be simple, efficient and secure. The SDK takes care of low-level details of an underlying REST API architecture, offers fewer opportunities to make mistakes, and lets developers focus on writing code specific to their particular project. As a result, it gets developers up and coding more quickly by putting Cloud API at their fingertips, along with providing PHP code samples and <a href="https://docs.aspose.cloud/display/wordscloud/Developer+Guide" target="_blank" rel="noopener noreferrer">documentation</a>.</p> <p>For detailed information about the content in this SDK, including a description of new content, please see <a href="https://apireference.aspose.cloud/words/" target="_blank" rel="noopener noreferrer">API Reference</a>. Also have a look at the complete list of <a href="https://products.aspose.cloud/words/family" target="_blank" rel="noopener noreferrer">Aspose.Words Cloud SDKs</a>.</p>
+    <p>Aspose.Words Cloud is a modern REST API, designed to perform a wide variety of operations on Word documents in the Cloud. The fundamental idea behind Words Cloud API is to incorporate a full-featured Word document processing functionality into customer’s applications, while providing high scalability and speed. </p><p> Similar to other Aspose Cloud SDKs, our PHP Cloud SDK is a wrapper around Cloud API, designed to be simple, efficient and secure. The SDK takes care of low-level details of an underlying REST API architecture, offers fewer opportunities to make mistakes, and lets developers focus on writing code specific to their particular project. As a result, it gets developers up and coding more quickly by putting Cloud API at their fingertips, along with providing PHP code samples and <a href="https://docs.aspose.cloud/display/wordscloud/Developer+Guide" target="_blank" rel="noopener noreferrer">documentation</a>.</p> <p>For detailed information about the content in this SDK, including a description of new content, please see <a href="https://apireference.aspose.cloud/words/" target="_blank" rel="noopener noreferrer">API Reference</a>. Also have a look at the complete list of <a href="/words/family/" target="_blank" rel="noopener noreferrer">Aspose.Words Cloud SDKs</a>.</p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -274,29 +274,29 @@ rename($result-&gt;getPathname(), 'sample.docx');</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/curl" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/net" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/java" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/cpp" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/php" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/android" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/python" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/ruby" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/nodejs" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/swift" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/go" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/dart" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
