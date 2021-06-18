@@ -10,7 +10,7 @@ url: /net
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://helpdesk.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-donet" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://helpdesk.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-dotnet" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Open, generate, edit, split, merge, compare and convert a Word document in C#. It's easy for C# developers to manipulate Microsoft Word documents.</p> <p>Simply integrate our Cloud API into your applications to get full-featured Word API that allows you to work, manipulate and integrate documents into your C#, ASP.NET and all other .NET apps including web, mobile, desktop, gaming, IoT, cloud, and microservices.</p> <p>The main usage of this library is to create, open, edit, split, convert documents in different file formats such as DOCX, HTML, PDF, DOC, JPG, etc. Cloud API gives you a library to do tasks programmatically in C# such as:</p>
