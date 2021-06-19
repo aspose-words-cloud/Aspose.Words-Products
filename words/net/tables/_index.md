@@ -119,7 +119,6 @@ wordsApi.InsertParagraph(request3);</code></pre>
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/words" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/words/" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Words Blog" href="https://blog.aspose.cloud/category/words/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Words Cloud for .NET?" tabId="success-stories" >}}

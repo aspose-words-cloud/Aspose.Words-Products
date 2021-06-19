@@ -6,7 +6,7 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents on Android programmatically" h2="Manage, generate, convert and merge Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-android.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents on Android programmatically" h2="Manage, generate, convert and merge Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-android.png" pfName="Aspose.Words" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Android" >}}
 
@@ -274,10 +274,9 @@ Sometimes organizations or individuals using large Microsoft Word documents may 
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/words" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/words/" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Words Blog" href="https://blog.aspose.cloud/category/words/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Words Cloud for Android?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Words Cloud SDK for Android?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
