@@ -11,15 +11,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="words/python/" pfName="Aspose.Words Cloud" title="Python SDK" imgSrc="/sdk/aspose_words-for-python.png" >}}
+{{< blocks/products/pf/product productLink="/words/python/" pfName="Aspose.Words Cloud" title="Python SDK" imgSrc="/sdk/aspose_words-for-python.png" >}}
 A Python wrapper around Aspose.Words Cloud API providing the capabilities to Create, Edit or Convert Word documents.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="words/nodejs/" pfName="Aspose.Words Cloud" title="Node.js SDK" imgSrc="/sdk/aspose_words-for-node.png" >}}
+{{< blocks/products/pf/product productLink="/words/nodejs/" pfName="Aspose.Words Cloud" title="Node.js SDK" imgSrc="/sdk/aspose_words-for-node.png" >}}
 Get the leverage to Create, Edit or Convert Word documents using Aspose.Words Cloud SDK for Node.js on any platform.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="words/android/" pfName="Aspose.Words Cloud" title="Android SDK" imgSrc="/sdk/aspose_words-for-android.png" >}}
+{{< blocks/products/pf/product productLink="/words/android/" pfName="Aspose.Words Cloud" title="Android SDK" imgSrc="/sdk/aspose_words-for-android.png" >}}
 Add Word document creation and manipulation capabilities into your applications using Platform Independent Android Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
