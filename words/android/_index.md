@@ -8,7 +8,7 @@ url: /android
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Work with Word Documents on Android programmatically" h2="Manage, generate, convert and merge Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-android.png" pfName="Aspose.Words" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Android" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="SDK for Android" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-android.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-android" >}}
 
@@ -91,7 +91,7 @@ url: /android
     <em class="fa fa-file-word-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Document creation in supported formats of Microsoft Word &amp; OpenOffice
+     Document creation for Microsoft Word &amp; OpenOffice
     </p>
    </div>
    <div class="col-lg-4">

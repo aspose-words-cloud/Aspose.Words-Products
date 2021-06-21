@@ -10,7 +10,7 @@ url: /swift
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Swift" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-swift.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-swift"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-swift.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-swift"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words Cloud Swift SDK enables computer programmers to develop cloud-based powerful applications in Swift to manipulate several major formats of word processing documents, such as Microsoft Word, OpenOffice formats, etc. It allows working with Aspose.Words Cloud REST APIs inside Swift applications rapidly and easily, with zero initial cost.</p>

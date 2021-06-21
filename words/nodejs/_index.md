@@ -263,7 +263,7 @@ url: /nodejs
 </ul>
 </div>
    <div class="col-lg-12">
-    <h2 class="h2title">>Convert PDF to Word in Node.js</h2>
+    <h2 class="h2title">Convert PDF to Word in Node.js</h2>
 <p>The following code sample shows how to convert PDF to DOCX in the Cloud and save the result to a local file:</p>
 <div class="codeblock" id="code">
 <h3>Convert Word documents to PDF - Node.js</h3>

@@ -93,7 +93,7 @@ url: /cpp
     <em class="fa fa-file-word-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Document creation in supported formats of Microsoft Word &amp; OpenOffice
+     Document creation for Microsoft Word &amp; OpenOffice
     </p>
    </div>
    <div class="col-lg-4">

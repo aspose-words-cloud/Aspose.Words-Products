@@ -6,11 +6,11 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents using" h2="Create, edit, convert and split Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-ruby.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Ruby SDK" h2="Create, edit, convert and split Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-ruby.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-ruby.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-ruby" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-ruby.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-ruby" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words Cloud Ruby SDK is a wrapper for Ruby around Cloud RESTful API which you can use to leverage the creation and processing functionality of business documents from within your Ruby applications. Our Cloud SDK lets your Ruby applications create and process Microsoft Word and OpenOffice documents without installing any software. You can work with various fonts, form fields, drawing & math objects, document & text classifications, and document properties.</p>
