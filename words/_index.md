@@ -47,15 +47,15 @@ Create, load, manipulate, or convert Microsoft Word and word processing formats 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Words Cross Platform Apps Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.app/words/editor/" pfName="Aspose.Words " title="Editor" imgSrc="https://products.aspose.cloud/templates/asposeapp/images/products/logo/aspose_editor-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/words/editor/" pfName="Aspose.Words " title="Editor" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_editor-app.png" >}}
 Edit Microsoft Office (DOC, DOCX, DOTX, RTF), Open Document (ODT), TXT and HTML files online.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.app/words/conversion/" pfName="Aspose.Words " title="Conversion" imgSrc="https://products.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/words/conversion/" pfName="Aspose.Words " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
 Easily convert Microsoft Word files to PDF, HTML, images and many other popular file formats without leaving your favorite browser.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.app/words/viewer/" pfName="Aspose.Words " title="Viewer" imgSrc="https://products.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/words/viewer/" pfName="Aspose.Words " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
 View Microsft Word documents in your favorite browser from anywhere.
 {{< /blocks/products/pf/product >}}
 
