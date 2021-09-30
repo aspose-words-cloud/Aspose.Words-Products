@@ -6,7 +6,7 @@ url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Cloud via Python" h2="Powerful Python library for creating, editing and processing Word DOCX, DOC, RTF files." logoImageSrc="/headers/aspose_word-for-python.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Cloud via Python" h2="Powerful Python library for creating, editing and processing Word DOCX, DOC, RTF files." logoImageSrc="/headers/aspose_words-for-python.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Python" >}}
 

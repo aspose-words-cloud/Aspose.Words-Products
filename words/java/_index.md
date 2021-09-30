@@ -6,7 +6,7 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Java" h2="Open, create, edit, merge, split, compare and convert a Word document in Java" logoImageSrc="/headers/aspose_word-for-java.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Java"  >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Java" h2="Open, create, edit, merge, split, compare and convert a Word document in Java" logoImageSrc="/headers/aspose_words-for-java.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Java"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Java" >}}
 

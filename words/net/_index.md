@@ -6,7 +6,7 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents in .NET" h2="Open, create, edit, merge, split, compare and convert a Word document in .NET" logoImageSrc="/headers/aspose_word-for-net.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET"  >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents in .NET" h2="Open, create, edit, merge, split, compare and convert a Word document in .NET" logoImageSrc="/headers/aspose_words-for-net.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET" >}}
 

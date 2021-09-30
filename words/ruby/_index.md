@@ -6,7 +6,7 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Ruby SDK" h2="Create, edit, convert and split Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-ruby.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Ruby SDK" h2="Create, edit, convert and split Word documents in the Cloud." logoImageSrc="/headers/aspose_words-for-ruby.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" >}}
 

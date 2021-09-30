@@ -6,7 +6,7 @@ url: /swift
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Swift" h2="Create, modify, convert, split and join Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-swift.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Swift" h2="Create, modify, convert, split and join Word documents in the Cloud." logoImageSrc="/headers/aspose_words-for-swift.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Swift" >}}
 

@@ -6,7 +6,7 @@ url: /go
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Go (Golang)" h2="Powerful Go library for creating, editing and processing Word DOCX, DOC, RTF files" logoImageSrc="/headers/aspose_word-for-go.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Go (Golang)" h2="Powerful Go library for creating, editing and processing Word DOCX, DOC, RTF files" logoImageSrc="/headers/aspose_words-for-go.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Go" >}}
 
