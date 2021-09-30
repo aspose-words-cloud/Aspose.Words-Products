@@ -6,11 +6,11 @@ url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Cloud via Python" h2="Powerful Python library for creating, editing and processing Word DOCX, DOC, RTF files." logoImageSrc="/headers/aspose_word-for-python.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents in Cloud via Python" h2="Powerful Python library for creating, editing and processing Word DOCX, DOC, RTF files." logoImageSrc="/headers/aspose_word-for-python.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-python.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-python" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-python.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-python" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <h2 class="h2title">Word documents in Python</h2>
@@ -42,7 +42,7 @@ url: /python
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-python.png" alt="Python Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-python.svg" alt="Python Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -64,7 +64,7 @@ url: /python
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-python.png" alt="Python Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-python.svg" alt="Python Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -305,29 +305,29 @@ print("Result {}".format(result))</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.svg" platform="Go" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.svg" platform="Dart" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents in .NET" h2="Open, create, edit, merge, split, compare and convert a Word document in .NET" logoImageSrc="/headers/aspose_word-for-net.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET"  >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents in .NET" h2="Open, create, edit, merge, split, compare and convert a Word document in .NET" logoImageSrc="/headers/aspose_word-for-net.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-net.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://helpdesk.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-dotnet" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-net.svg" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://helpdesk.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-dotnet" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Open, generate, edit, split, merge, compare and convert a Word document in C#. It's easy for C# developers to manipulate Microsoft Word documents.</p> <p>Simply integrate our Cloud API into your applications to get full-featured Word API that allows you to work, manipulate and integrate documents into your C#, ASP.NET and all other .NET apps including web, mobile, desktop, gaming, IoT, cloud, and microservices.</p> <p>The main usage of this library is to create, open, edit, split, convert documents in different file formats such as DOCX, HTML, PDF, DOC, JPG, etc. Cloud API gives you a library to do tasks programmatically in C# such as:</p>
@@ -48,7 +48,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-net.png" alt=".NET Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-net.svg" alt=".NET Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -70,7 +70,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-net.png" alt=".NET Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-net.svg" alt=".NET Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -323,29 +323,29 @@ using (var file = new FileStream("sample.docx", FileMode.Create, FileAccess.Writ
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.svg" platform="Go" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.svg" platform="Dart" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Ruby SDK" h2="Create, edit, convert and split Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-ruby.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents using Ruby SDK" h2="Create, edit, convert and split Word documents in the Cloud." logoImageSrc="/headers/aspose_word-for-ruby.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for Ruby" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-ruby.png" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-ruby" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-ruby.svg" liveDemosLink="https://products.aspose.app/words/family/" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-ruby" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words Cloud Ruby SDK is a wrapper for Ruby around Cloud RESTful API which you can use to leverage the creation and processing functionality of business documents from within your Ruby applications. Our Cloud SDK lets your Ruby applications create and process Microsoft Word and OpenOffice documents without installing any software. You can work with various fonts, form fields, drawing & math objects, document & text classifications, and document properties.</p>
@@ -41,7 +41,7 @@ url: /ruby
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-ruby.png" alt="Ruby Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-ruby.svg" alt="Ruby Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -63,7 +63,7 @@ url: /ruby
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-ruby.png" alt="Ruby Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-ruby.svg" alt="Ruby Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -270,29 +270,29 @@ url: /ruby
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.svg" platform="Go" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.svg" platform="Dart" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

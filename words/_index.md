@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Convert MS Word Documents with Cloud APIs" h2="Aspose.Words provide the most complete and efficient set of Word document processing solutions without any Microsoft Word dependencies." logoImageSrc="/headers/aspose_words-brand.png" imageAlt="Aspose.Words Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Convert MS Word Documents with Cloud APIs" h2="Aspose.Words provide the most complete and efficient set of Word document processing solutions without any Microsoft Word dependencies." logoImageSrc="/headers/aspose_words-brand.svg" imageAlt="Aspose.Words Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Words Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="/words/python/" pfName="Aspose.Words Cloud" title="Python SDK" imgSrc="/sdk/aspose_words-for-python.png" >}}
+{{< blocks/products/pf/product productLink="/words/python/" pfName="Aspose.Words Cloud" title="Python SDK" imgSrc="/sdk/aspose_words-for-python.svg" >}}
 A Python wrapper around Aspose.Words Cloud API providing the capabilities to Create, Edit or Convert Word documents.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/words/nodejs/" pfName="Aspose.Words Cloud" title="Node.js SDK" imgSrc="/sdk/aspose_words-for-node.png" >}}
+{{< blocks/products/pf/product productLink="/words/nodejs/" pfName="Aspose.Words Cloud" title="Node.js SDK" imgSrc="/sdk/aspose_words-for-node.svg" >}}
 Get the leverage to Create, Edit or Convert Word documents using Aspose.Words Cloud SDK for Node.js on any platform.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/words/android/" pfName="Aspose.Words Cloud" title="Android SDK" imgSrc="/sdk/aspose_words-for-android.png" >}}
+{{< blocks/products/pf/product productLink="/words/android/" pfName="Aspose.Words Cloud" title="Android SDK" imgSrc="/sdk/aspose_words-for-android.svg" >}}
 Add Word document creation and manipulation capabilities into your applications using Platform Independent Android Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ Add Word document creation and manipulation capabilities into your applications 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Words On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/words/net/" pfName="Aspose.Words for " title=".NET" imgSrc="/sdk/aspose_words-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/words/net/" pfName="Aspose.Words for " title=".NET" imgSrc="/sdk/aspose_words-for-net.svg" >}}
 On Premise .NET APIs to manipulate Microsoft Word document formats within Windows, Web, iOS & Android based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/words/java/" pfName="Aspose.Words for " title="Java" imgSrc="/sdk/aspose_words-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/words/java/" pfName="Aspose.Words for " title="Java" imgSrc="/sdk/aspose_words-for-java.svg" >}}
 Java-based platform APIs to create, modify, render or parse Microsoft Word files, Web, Text and OpenOffice documents directly within applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/words/cpp/" pfName="Aspose.Words for " title="C++" imgSrc="/sdk/aspose_words-for-cpp.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/words/cpp/" pfName="Aspose.Words for " title="C++" imgSrc="/sdk/aspose_words-for-cpp.svg" >}}
 Create, load, manipulate, or convert Microsoft Word and word processing formats within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 

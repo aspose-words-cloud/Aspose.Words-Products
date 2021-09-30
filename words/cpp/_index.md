@@ -6,11 +6,11 @@ url: /cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Work with Word Documents using" h2="Create, edit, convert and split Word documents in the Cloud via C++ library & REST API." logoImageSrc="/headers/aspose_word-for-cpp.png" pfName="Aspose.Words" subTitlepfName="Cloud SDK for C++" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Work with Word Documents using" h2="Create, edit, convert and split Word documents in the Cloud via C++ library & REST API." logoImageSrc="/headers/aspose_word-for-cpp.svg" pfName="Aspose.Words" subTitlepfName="Cloud SDK for C++" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="Cloud SDK for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-cpp.png" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-cpp.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words Cloud C++ SDK helps you develop cloud-based business applications in C++ to process and manipulate all major formats of documents, such as Microsoft Word formats, OpenOffice formats, etc. There is no need to download or install any third-party software.</p>
@@ -42,7 +42,7 @@ url: /cpp
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-cpp.png" alt="C++ Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>C++</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-cpp.svg" alt="C++ Word Cloud SDK"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>C++</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -64,7 +64,7 @@ url: /cpp
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_words-for-cpp.png" alt="C++ Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>C++</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_words-for-cpp.svg" alt="C++ Cloud SDK for MS Word"><header>Aspose.Words</header><footer>Cloud <small> <em>for </em> </small>C++</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -284,29 +284,29 @@ url: /cpp
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Words" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/curl/" imgSrc="/sdk/aspose_words-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/net/" imgSrc="/sdk/aspose_words-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/java/" imgSrc="/sdk/aspose_words-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/cpp/" imgSrc="/sdk/aspose_words-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/php/" imgSrc="/sdk/aspose_words-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/android/" imgSrc="/sdk/aspose_words-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/python/" imgSrc="/sdk/aspose_words-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/ruby/" imgSrc="/sdk/aspose_words-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/nodejs/" imgSrc="/sdk/aspose_words-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/swift/" imgSrc="/sdk/aspose_words-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/words/go/" imgSrc="/sdk/aspose_words-for-go.svg" platform="Go" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.png" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/words/dart/" imgSrc="/sdk/aspose_words-for-dart.svg" platform="Dart" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

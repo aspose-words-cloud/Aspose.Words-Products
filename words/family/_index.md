@@ -6,7 +6,7 @@ url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Cloud API to Work with Word Documents" h2="SDKs are available for Windows, Linux, iOS, Android, .NET and programming languages: Python, Node.js, Java, PHP, C#, Ruby, C++, Swift, Go." logoImageSrc="/headers/aspose_words.png" pfName="Aspose.Words" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Cloud API to Work with Word Documents" h2="SDKs are available for Windows, Linux, iOS, Android, .NET and programming languages: Python, Node.js, Java, PHP, C#, Ruby, C++, Swift, Go." logoImageSrc="/headers/aspose_words.svg" pfName="Aspose.Words" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 <div class="container-fluid features-section singleproduct">
@@ -20,54 +20,54 @@ url: /family
 </div>
 {{< blocks/products/pf/product-card-row title="Aspose.Words Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud for cURL" imgSrc="/sdk/aspose_words-for-curl.png" productLink="/words/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud for cURL" imgSrc="/sdk/aspose_words-for-curl.svg" productLink="/words/curl/" >}}
 It is a dedicated cURL interface for Aspose.Words Cloud APIs. cURL is an excellent tool for REST API testing with support for dozens of network protocols.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_words-for-net.png" productLink="/words/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_words-for-net.svg" productLink="/words/net/" >}}
 Provides a C# binding to Aspose.Words Cloud APIs. C# is a simple and powerful language, designed for building scalable, interoperable and robust applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Java" imgSrc="/sdk/aspose_words-for-java.png" productLink="/words/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Java" imgSrc="/sdk/aspose_words-for-java.svg" productLink="/words/java/" >}}
 A lightweight Java wrapper around Aspose.Words Cloud APIs. Java is a platform-independent language, developed with networking capability and security in mind.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for C++" imgSrc="/sdk/aspose_words-for-cpp.png" productLink="/words/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for C++" imgSrc="/sdk/aspose_words-for-cpp.svg" productLink="/words/cpp/" >}}
 Provides a C++ binding to Aspose.Words Cloud APIs. This SDK is your choice if you need to perform low-level data operations or gain total control over memory management.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_words-for-php.png" productLink="/words/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_words-for-php.svg" productLink="/words/php/" >}}
 Implements an Aspose.Words Cloud interface on PHP - a worldwide favorite server-side scripting language, compatible with a large majority of operating systems.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Android" imgSrc="/sdk/aspose_words-for-android.png" productLink="/words/android/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Android" imgSrc="/sdk/aspose_words-for-android.svg" productLink="/words/android/" >}}
 Provides a binding from mobile devices to Aspose.Words Cloud APIs. This SDK is available for Android 4.2.2 or above. Java 1.7+ environment is required.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Python" imgSrc="/sdk/aspose_words-for-python.png" productLink="/words/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Python" imgSrc="/sdk/aspose_words-for-python.svg" productLink="/words/python/" >}}
 Provides a Python binding to Aspose.Words Cloud APIs. Python works in a wide variety of contexts and has many indisputable technical advantages on the Web.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_words-for-ruby.png" productLink="/words/ruby/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_words-for-ruby.svg" productLink="/words/ruby/" >}}
 Implements an Aspose.Words Cloud interface on Ruby - a high-level scripting language, being intensively used in Web applications and data science.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_words-for-node.png" productLink="/words/nodejs/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_words-for-node.svg" productLink="/words/nodejs/" >}}
 A lightweight Node.js wrapper around Aspose.Words Cloud APIs.
 Node.js is a perfect choice if you require high scalability and performance, empowered with non-blocking I/O.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_words-for-swift.png" productLink="/words/swift/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_words-for-swift.svg" productLink="/words/swift/" >}}
 Provides a Swift binding to Aspose.Words Cloud APIs.
 Swift is designed to work with Apple's frameworks on iOS, macOS, iPadOS, tvOS, watchOS and Linux.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Go" imgSrc="/sdk/aspose_words-for-go.png" productLink="/words/go/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Go" imgSrc="/sdk/aspose_words-for-go.svg" productLink="/words/go/" >}}
 Implements an Aspose.Words Cloud interface on Go.
 Go or Golang is a modern language that supports concurrent, functional, imperative and object-oriented paradigms.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Dart" imgSrc="/sdk/aspose_words-for-dart.png" productLink="/words/dart/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud SDK for Dart" imgSrc="/sdk/aspose_words-for-dart.svg" productLink="/words/dart/" >}}
 Provides a binding from mobile devices to Aspose.Words Cloud APIs.
 This SDK is fully compatible with Fluter and used to create stable, fast, professional-looking mobile software on both Android and iOS.
 {{< /blocks/products/pf/product >}}
