@@ -29,15 +29,15 @@ Add Word document creation and manipulation capabilities into your applications 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Words On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/words/net/" pfName="Aspose.Words for " title=".NET" imgSrc="/sdk/aspose_words-for-net.svg" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/words/net/" pfName="Aspose.Words for " title=".NET" imgSrc="/product-logos/aspose_words-for-net.svg" >}}
 On Premise .NET APIs to manipulate Microsoft Word document formats within Windows, Web, iOS & Android based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/words/java/" pfName="Aspose.Words for " title="Java" imgSrc="/sdk/aspose_words-for-java.svg" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/words/java/" pfName="Aspose.Words for " title="Java" imgSrc="/product-logos/aspose_words-for-java.svg" >}}
 Java-based platform APIs to create, modify, render or parse Microsoft Word files, Web, Text and OpenOffice documents directly within applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/words/cpp/" pfName="Aspose.Words for " title="C++" imgSrc="/sdk/aspose_words-for-cpp.svg" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/words/cpp/" pfName="Aspose.Words for " title="C++" imgSrc="/product-logos/aspose_words-for-cpp.svg" >}}
 Create, load, manipulate, or convert Microsoft Word and word processing formats within pure C++ applications using native C++ library.
 {{< /blocks/products/pf/product >}}
 
