@@ -20,13 +20,13 @@ url: /dart/tables
 </div>
 </div>
 </div>
-<div id="fm" data-nosnippet="">
+<!--<div id="fm" data-nosnippet="">
 <div class="container">
 <div class="row">
 <p class="navbar-text"><a href="/words/family/">Words Cloud</a> / <a id="sdk" href="/words/dart/"> Dart</a> / Tables</p>
 </div>
 </div>
-</div>
+</div>-->
 <div class="wgray">
 <div class="container">
 <div class="row">
