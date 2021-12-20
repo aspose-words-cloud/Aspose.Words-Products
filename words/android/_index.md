@@ -10,7 +10,7 @@ url: /android
 
 {{< blocks/products/pf/main-container pfName="Aspose.Words" subTitlepfName="SDK for Android" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-android.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-android" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_words-for-android.svg" liveDemosLink="https://products.aspose.app/words/family" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/words"  directDownloadLink="https://github.com/aspose-words-cloud/aspose-words-cloud-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Convert, split, merge, create, compare, edit a Word document in Android programmatically. Develop Android apps dealing with Word documents easily. Integrate our Cloud API into your mobile apps to get the full control of working with Word documents. We provide mail merge or report generation, adding headers or footers, paragraphs, text & images, watermarks & hyperlinks, find & replace text, and various other document related features.</p>
@@ -243,16 +243,16 @@ Sometimes organizations or individuals using large Microsoft Word documents may 
      User Guide
     </h2>
 <ul>
-<li><a href="https://github.com/aspose-words-cloud/aspose-words-cloud-android#getting-started" target="_blank" rel="noopener noreferrer">Installing</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Quickstart" target="_blank" rel="noopener noreferrer">Quickstart</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Working+with+Documents" target="_blank" rel="noopener noreferrer">Working with Documents</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Working+with+Text" target="_blank" rel="noopener noreferrer">Working with Text</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Working+with+Paragraphs" target="_blank" rel="noopener noreferrer">Working with Paragraphs</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Working+with+Sections" target="_blank" rel="noopener noreferrer">Working with Sections</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Working+with+Tables" target="_blank" rel="noopener noreferrer">Working with Tables</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Working+with+Headers+and+Footers" target="_blank" rel="noopener noreferrer">Working with Headers and Footers</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Compare+Documents" target="_blank" rel="noopener noreferrer">Compare Documents</a></li>
-<li><a href="https://docs.aspose.cloud/display/wordscloud/Document+and+Text+Classification" target="_blank" rel="noopener noreferrer">Text Classification</a></li>
+<li><a href="https://github.com/aspose-words-cloud/aspose-words-cloud-java/" target="_blank" rel="noopener noreferrer">Installing</a></li>
+<li><a href="https://docs.aspose.cloud/words/getting-started/quickstart/" target="_blank" rel="noopener noreferrer">Quickstart</a></li>
+<li><a href="https://docs.aspose.cloud/words/documents/" target="_blank" rel="noopener noreferrer">Working with Documents</a></li>
+<li><a href="https://docs.aspose.cloud/words/text/" target="_blank" rel="noopener noreferrer">Working with Text</a></li>
+<li><a href="https://docs.aspose.cloud/words/paragraphs/" target="_blank" rel="noopener noreferrer">Working with Paragraphs</a></li>
+<li><a href="https://docs.aspose.cloud/words/sections/" target="_blank" rel="noopener noreferrer">Working with Sections</a></li>
+<li><a href="https://docs.aspose.cloud/words/tables/" target="_blank" rel="noopener noreferrer">Working with Tables</a></li>
+<li><a href="https://docs.aspose.cloud/words/headers-and-footers/" target="_blank" rel="noopener noreferrer">Working with Headers and Footers</a></li>
+<li><a href="https://docs.aspose.cloud/words/compare/" target="_blank" rel="noopener noreferrer">Compare Documents</a></li>
+<li><a href="https://docs.aspose.cloud/words/classification/" target="_blank" rel="noopener noreferrer">Text Classification</a></li>
 </ul>
    </div>
   </div>
