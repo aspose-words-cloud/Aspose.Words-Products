@@ -14,7 +14,7 @@ url: /swift
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Words Cloud Swift SDK enables computer programmers to develop cloud-based powerful applications in Swift to manipulate several major formats of word processing documents, such as Microsoft Word, OpenOffice formats, etc. It allows working with Aspose.Words Cloud REST APIs inside Swift applications rapidly and easily, with zero initial cost.</p>
-<p>Swift developers can easily create, render, merge, split, manipulate and convert their Word and OpenOffice documents from within their own applications. Aspose.Words Cloud Swift SDK  supports several important document processing features such as word document conversion between various formats, splitting and merging word documents, Word document metadata and statistics access, protecting your word documents, add and edit watermarks. Moreover, you also easily access and edit word documents sections, paragraphs, text, images, tables, headers/footers, and many others.</p>
+<p>Swift developers can easily create, render, merge, split, manipulate and convert their Word and OpenOffice documents from within their own applications. Aspose.Words Cloud Swift SDK  supports several important document processing features such as word document conversion between various formats, splitting and merging word documents, Word document metadata and statistics access, protecting your word documents, add and edit watermarks. Moreover, you also easily access and edit word documents sections, paragraphs, text, images, tables, headers/footers, and many others.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -132,7 +132,7 @@ url: /swift
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Word documents Protection
+     Word documents Protection
     </p>
    </div>
    <div class="col-lg-4">
