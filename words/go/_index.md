@@ -223,7 +223,7 @@ url: /go
     </h2>
     <p>The following are step-by-step instructions on how to install the Go SDK:</p>
 <ol>
-<li>Download and install <a href="https://go.dev/get-go">the Go</a> environment.</li>
+<li>Download and install <a href="https://go.dev">the Go</a> environment.</li>
 <li>Import the Go SDK into your project by adding <b>aspose_words_cloud</b> dependency in pubspec.yaml:<br />
 </li>
 </ol>
@@ -314,7 +314,7 @@ io.Copy(output, response.Body)</code></pre>
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/words" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-words-cloud/aspose-words-cloud-go/" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/words/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/@AsposeCloud" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}

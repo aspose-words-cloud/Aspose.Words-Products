@@ -116,7 +116,7 @@ wordsApi.InsertParagraph(ctx, "sample.docx", paragraph, nodePath, nil)</code></p
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/words" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-words-cloud/aspose-words-cloud-go/" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/words/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/@AsposeCloud" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
